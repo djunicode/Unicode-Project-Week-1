@@ -1,0 +1,67 @@
+{
+  "file_structure": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "naming_conventions": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "comments": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "formatting": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "code_organization": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "domain_specific_conventions": {
+    "domains": "",
+    "score": "?/20",
+    "remarks": ""
+  },
+  "documentation": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "commit_history": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "commit_messages": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "commit_size": {
+    "score": "?/20",
+    "remarks": ""
+  },
+  "readme_explanation": {
+    "score": "?/30",
+    "remarks": ""
+  },
+  "user_documentation": {
+    "score": "?/30",
+    "remarks": ""
+  },
+  "project_images": {
+    "score": "?/30",
+    "remarks": ""
+  },
+  "code_usage_snippets": {
+    "score": "?/30",
+    "remarks": ""
+  },
+  "licence": {
+    "score": "?/30",
+    "remarks": ""
+  },
+  "brownie_points": {
+    "score": "?/30",
+    "remarks": ""
+  }
+}
